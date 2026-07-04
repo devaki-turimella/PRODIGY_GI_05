@@ -60,3 +60,4 @@ The final output is a single stylized image (`stylized_output.jpg`) that blends:
 - Towards Data Science – How Neural Style Transfer Works
 - GeeksforGeeks – Neural Style Transfer with TensorFlow
 - TensorFlow Official Tutorial – Neural Style Transfer
+## Author - by Devaki
